@@ -3,7 +3,7 @@
 Designed and developed a personal portfolio website to showcase my skills, experience, and projects. The website features a responsive layout, modern design, and interactive features to engage visitors.
 
 📌 Live Site URL: Visit Now 🚀
-
+https://charul729.github.io/Portfolio/
 
 ## Features
 
@@ -13,8 +13,9 @@ Designed and developed a personal portfolio website to showcase my skills, exper
 - **Skills Section:** Lists the creator's skills.
 - **Contact Section:** Provides contact information for reaching out to the creator.
 
-📌 Tech Stack
-HTML  CSS 
+## 📌 Tech Stack <br/>
+HTML <br/>
+CSS 
 
 ## Technologies Used
 
